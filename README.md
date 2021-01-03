@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.5%2B-blue.svg)](https://www.python.org)
 
-
 ### 使用方法：
 
 1. 安装`Python` (3.5 或更高版本）
